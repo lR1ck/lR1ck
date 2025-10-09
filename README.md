@@ -1,5 +1,5 @@
-## Hello there 👋
-# Hey, I'm Ricardo (aka R1ck)
+# Hello there 👋
+## Hey, I'm Ricardo (aka R1ck)
 
 
 I’m a Software Engineer passionate about **AI**, **automation**, and **scalable backend architecture**.  
