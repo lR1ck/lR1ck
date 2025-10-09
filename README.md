@@ -1,7 +1,6 @@
 ## Hello there 👋
 # Hey, I'm Ricardo (aka R1ck)
 
-> “I don’t build software to follow the rules — I build it to rewrite them.”
 
 I’m a Software Engineer passionate about **AI**, **automation**, and **scalable backend architecture**.  
 I like building products that feel invisible but do heavy lifting behind the scenes.
