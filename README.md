@@ -32,7 +32,7 @@ I like building products that feel invisible but do heavy lifting behind the sce
 If you’d like to collaborate, talk AI, or build something ambitious —  
 **open an issue or drop me a message.**
 
-> _“No one here gets out alive.”_
+> _“Just when I thought I was out, they pull me back in..”_
 <!--
 **lR1ck/lR1ck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
