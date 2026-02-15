@@ -1,9 +1,9 @@
 # Hello there 👋
-## Hey, I'm Ricardo (aka R1ck)
+## Hey, I'm Ricardo 
 
 
 I’m a Software Engineer passionate about **AI**, **automation**, and **scalable backend architecture**.  
-I like building products that feel invisible but do heavy lifting behind the scenes.
+
 
 
 
@@ -22,17 +22,16 @@ I like building products that feel invisible but do heavy lifting behind the sce
 | Project | Description | Status |
 |----------|--------------|--------|
 | **Fiscalito** | Smart tax assistant automating SAT reports | 🚀 MVP in development |
-| **Contabilidad Fantasma** | Invisible accounting infrastructure for firms and fintechs | 🧠 Architecture in progress |
 | **NasaCityPlanner** | Project for NASA Space Apps Challenge 2025 | 🌌 In execution |
 
 ---
 
 ### 🖤 Thanks for stopping by
 
-If you’d like to collaborate, talk AI, or build something ambitious —  
-**open an issue or drop me a message.**
+If you’d like to collaborate, talk AI, or build something —  
+** drop me a message.**
 
-> _“Just when I thought I was out, they pull me back in..”_
+>
 <!--
 **lR1ck/lR1ck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
